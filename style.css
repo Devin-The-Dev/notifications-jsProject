@@ -1,0 +1,12 @@
+.notify{
+    display: none;
+}
+
+.album {
+    float: left;
+}
+
+.button {
+    text-align: center;
+    width: 100%;
+}
